@@ -1,0 +1,11 @@
+.text-pink {
+    color: pink;
+}
+
+.text-italic {
+    font-style: italic;
+}
+
+.hidden {
+    display: none;
+}
